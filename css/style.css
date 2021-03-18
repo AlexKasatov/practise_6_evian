@@ -100,11 +100,11 @@ body {
   /* top: 545px; */
 }
 
-@media (min-width: 576px) {
+/* @media (min-width: 576px) {
   .hero-heading {
     font-size: ;
   }
-}
+} */
 
 .content-box {
   display: flex;
