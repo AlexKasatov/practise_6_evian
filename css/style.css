@@ -76,7 +76,7 @@ body {
 .container-hero {
   box-sizing: content-box;
   height: 1050px;
-  background-image: url(img/evian_origins_logo.jpg);
+  background-image: url(../img/evian_origins_logo.jpg);
   background-size: cover;
   background-position: center;
   margin-top: 70px;
